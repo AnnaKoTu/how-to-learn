@@ -38,14 +38,6 @@
   z-index: 1;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .header__title {
   margin: 0;
   margin-left:64px;
