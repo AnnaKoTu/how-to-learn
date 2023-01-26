@@ -1,0 +1,11 @@
+@import  url(../blocks/techniques/techniques.css);
+
+.techniques {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 100px;
+   }
