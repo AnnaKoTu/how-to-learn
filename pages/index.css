@@ -1,5 +1,9 @@
 @import  url(../vendor/normalize.css);
 
+ /*
+  Прошу прощения, совсем не обратила внимание на общий комментарий (не нажимала кнопку "Развернуть"), это всё моя невнимательность. Спасибо вам за ваше терпение и труд.
+   */
+
 @import  url(../blocks/page/page.css);
 
 @import  url(../blocks/header/header.css);
@@ -69,10 +73,6 @@
 @import  url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import  url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import  url(../blocks/table/__text/_theme/table__text_theme_dark.css);
-
- /*
-   Исправила. Убрала дублированное kaufman__triangle.css.
-   */
 
 @import  url(../blocks/resources/resources.css);
 @import  url(../blocks/resources/__link/resources__link.css);
